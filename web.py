@@ -24,4 +24,11 @@ st.text_input(label='Enter',label_visibility='hidden',
               placeholder='Enter a to-do..',
               on_change=add_todo, key='new_todo')
 
-st.session_state
+#st.session_state
+
+
+st.write("")
+st.write("")
+st.write("")
+st.write("--")
+st.write('Made with <3 by Geethika')

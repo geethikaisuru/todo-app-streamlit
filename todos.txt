@@ -2,7 +2,4 @@ donewith it
 this is not empty
 Donee
 helloworld
-neee
 Clean the bagnew
-cls
-
