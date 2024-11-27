@@ -9,8 +9,8 @@ def add_todo():
     todos.append(todo)
     functions.write_todos(todos)
 
-st.title('Todo App')
-st.subheader('A simple todo app using Streamlit')
+st.title('Todo App 📋')
+st.subheader('A simple todo app using Streamlit ')
 
 for index, todo in enumerate(todos):
     checkbox = st.checkbox(todo, key=todo)
@@ -31,4 +31,4 @@ st.write("")
 st.write("")
 st.write("")
 st.write("--")
-st.write('Made with <3 by Geethika')
+st.write('Made with ❤️ by Geethika')
